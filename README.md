@@ -8,3 +8,5 @@ Eksctl
 Helm
 Tiller
 Kubectl
+
+For more details visit my LinkedIn post https://www.linkedin.com/pulse/amazon-elastic-kubernetes-service-task-vishal-dhole
